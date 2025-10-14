@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=aptnetdb&theme=dark&hide_border=false) <br/>
 
----
 
 ### My current learning focus environment
 
