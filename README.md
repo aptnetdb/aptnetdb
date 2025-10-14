@@ -20,3 +20,28 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=aptnetdb&theme=dark&hide_border=false) <br/>
 
 ---
+
+### My current learning focus environment
+
+<table><tr><td valign="top" width="30%">
+
+### Labs
+- Malware Analysis
+- Capture the Flag
+- Detection Engineering
+
+</td><td valign="top" width="40%">
+
+### Skills
+- Hardware Security
+- Software Security
+- Network Security
+
+</td><td valign="top" width="30%">
+
+### Interests
+- Embedded Systems
+- Web-based Systems
+- Reverse Engineering
+
+</td></tr></table>
