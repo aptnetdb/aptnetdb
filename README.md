@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📊 GitHub Stats:
+#### &#x1f4c8; My GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=aptnetdb&theme=dark&show_border=false&include_all_commits=false&count_private=false) <br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=aptnetdb&theme=dark&hide_border=false) <br/>
