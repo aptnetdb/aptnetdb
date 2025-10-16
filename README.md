@@ -12,35 +12,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center"> Security Researcher & Web Developer</h2>
 
-#### &#x1f4c8; My GitHub Stats:
+###
 
-![](https://github-readme-stats.vercel.app/api?username=aptnetdb&theme=dark&show_border=false&include_all_commits=false&count_private=false) <br/>
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=aptnetdb&theme=dark&hide_border=false) <br/>
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+</div>
 
+###
 
-### My current learning focus environment
+<div align="center">
 
-<table><tr><td valign="top" width="30%">
+### Technologies
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+</div>
 
-### Labs
-- Malware Analysis
-- Capture the Flag
-- Detection Engineering
+###
 
-</td><td valign="top" width="40%">
+<div align="center">
 
-### Skills
-- Hardware Security
-- Software Security
-- Network Security
+![aptnetdb's github stats](https://github-readme-stats.vercel.app/api?username=aptnetdb&show_icons=true&theme=dracula)
 
-</td><td valign="top" width="30%">
+</div>
 
-### Interests
-- Embedded Systems
-- Web-based Systems
+###
+
+<div align="center">
+
+### Current Project Working on
+[![](https://img.shields.io/badge/%20My%20Website-000)](https://github.com/aptnetdb/aptnetdb.github.io)
+
+</div>
+
+###
+
+<div align="center">
+
+### Current labs and trainings
+<table><tr><td valign="centre" width="30%">
+
+**Labs**
+
+</td><td valign="top" width="80%">
+
+- Hack The Box
+- Web Security Academy
+
+<tr><td valign="centre" width="30%">
+
+**Skills**
+
+</td><td valign="top" width="80%">
+
 - Reverse Engineering
+- Web-based systems
 
 </td></tr></table>
+
+</div>
+
+###
+
+<h5 align="center"> citizen of the world </h5>
+
