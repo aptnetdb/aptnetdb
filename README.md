@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center"> Mastering software security and information system engineering through developing web-based security 
-<br> solutions with Artificial Intelligence </br></p>
+<p align="center"> Mastering software security and information system engineering through developing web-based
+<br> security solutions with Artificial Intelligence </br></p>
 
 ###
 
