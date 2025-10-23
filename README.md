@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![](https://img.shields.io/badge/%20My%20Website-000)](https://github.com/aptnetdb/aptnetdb.github.io)
+[![](https://img.shields.io/badge/%20My%20Website-919191)](https://github.com/aptnetdb/aptnetdb.github.io)
 
 </div>
 
