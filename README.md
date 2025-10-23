@@ -19,8 +19,18 @@ Here are some ideas to get you started:
 <p align="center"> Learning software and information system engineering through developing web-based security solutions 
 <br> with Artificial Intelligence </br></p>
 
+###
+
 <div align="center">
 
+[![](https://img.shields.io/badge/%20My%20Website-000)](https://github.com/aptnetdb/aptnetdb.github.io)
+
+</div>
+
+###
+
+<div align="center">
+  
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -55,23 +65,29 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Current Project Working on
-[![](https://img.shields.io/badge/%20My%20Website-000)](https://github.com/aptnetdb/aptnetdb.github.io)
-
-</div>
-
-###
-
-<div align="center">
-
-### Current labs and trainings
-<table><tr><td valign="centre" width="30%">
+### Current Activities
+<table><tr>
+<td valign="centre" width="30%">
 
 **Labs**
 
-</td><td valign="top" width="80%">
+</td>
+<td valign="top" width="80%">
 
 - Hack The Box and  Web Security Academy
+
+<tr>
+<td valign="centre" width="30%">
+
+**Projects**
+
+</td>
+
+<td valign="top" width="80%">
+
+- Web-based Security projects
+
+</td>
 
 <tr><td valign="centre" width="30%">
 
@@ -81,11 +97,11 @@ Here are some ideas to get you started:
 
 - Reverse Engineering and Web-based systems
 
-</td></tr></table>
-
+</td>
+</tr></table>
 </div>
 
 ###
 
-<h5 align="center"> Building projects to maintain an elevated state of creation </h5>
+<h4 align="center"> ⚡️<i>Building projects to maintain an elevated state of creation</i>⚡️ </h4>
 
