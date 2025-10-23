@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center"> Learning software and information system engineering through developing web-based security solutions 
+<p align="center"> Mastering software security and information system engineering through developing web-based security solutions 
 <br> with Artificial Intelligence </br></p>
 
 ###
