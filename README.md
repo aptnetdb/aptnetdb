@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"> Security Researcher & Web Developer</h2>
+<h2 align="center"> Aspiring Security Engineer</h2>
 
 ###
+
+<p align="center"> Learning software and information system engineering through developing web-based security solutions with Artificial Intelligence </p>
 
 <div align="center">
 
@@ -68,8 +70,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="80%">
 
-- Hack The Box
-- Web Security Academy
+- Hack The Box and  Web Security Academy
 
 <tr><td valign="centre" width="30%">
 
@@ -77,8 +78,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="80%">
 
-- Reverse Engineering
-- Web-based systems
+- Reverse Engineering and Web-based systems
 
 </td></tr></table>
 
@@ -86,5 +86,5 @@ Here are some ideas to get you started:
 
 ###
 
-<h5 align="center"> citizen of the world </h5>
+<h5 align="center"> Building projects to maintain an elevated state of creation </h5>
 
